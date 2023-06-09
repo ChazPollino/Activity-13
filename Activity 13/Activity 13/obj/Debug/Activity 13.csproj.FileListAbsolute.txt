@@ -1,0 +1,11 @@
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\bin\Debug\Activity 13.exe.config
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\bin\Debug\Activity 13.exe
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\bin\Debug\Activity 13.pdb
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.AssemblyReference.cache
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity_13.Activity13.resources
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity_13.Properties.Resources.resources
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.GenerateResource.cache
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity 13.csproj.CoreCompileInputs.cache
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity 13.exe
+C:\Users\Dusty4G\source\repos\Activity 13\Activity 13\obj\Debug\Activity 13.pdb
